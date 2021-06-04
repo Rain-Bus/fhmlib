@@ -1,0 +1,15 @@
+{
+  "cookies": [
+      {
+        "v": "5.5",
+        "FROM_TYPE": "weixin",
+        "wechatSESS_ID": "",
+        "SERVERID": "",
+        "Authorization": "eyJ0eXAiOiJKV1QiLCJ9.eyJ1c2VySWQiOjIlyZUF0IjoxNjIyNzc5ODc0fQ.vbMiVjm7kWWvAJl8uukgIJzDUoCy2yhY-6jdr1R1axZE6efhIGv26D6qTudw1tR-IcIJbxsLmS9DmY1iST1hMEiOfdGmRQKDBnH6Um3IZi2a3COefStOUILUBGVDgvtqtjdd2odDF9rpfcEPmhPW9TbpYw17VkEhW6yqhlYQmxG8DMZN-9a0WxzY-jmUGiVEAd5wV39QH16yADRorsfWeJRkUaqTUW072qKQUUbvmukWgHJXub8euc7pFZRsM1ouA6KZdJBnCdHjfkDiNy2hpzf4fFjqCnjp4cXDxEYJrNrZ4A1XyB26m14DJNROKw"
+      }
+  ],
+  "lib_id": 12125,
+  "seat_key": 1,
+  "interval": 30,
+  "retry_times": 30
+}
